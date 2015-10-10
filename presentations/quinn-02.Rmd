@@ -1,0 +1,82 @@
+---
+title: "Chapter 02: Introduction to Ethics"
+author: "Aaron Curtis"
+date: "October 9, 2015"
+output: ioslides_presentation
+---
+
+## Chapter Overview
+
+- Introduction
+- Review of nine ethical theories
+- Comparing workable ethical theories
+- Morality of breaking the law
+
+## 2.1 Introduction
+
+## We live in communities
+
+## The Ethical Point of View
+
+- Most everyone shares core values
+- Two ways to view the world
+  - Selfish point of view
+  - Ethical point of view
+  
+## Defining Terms
+
+- Society
+- Morality
+- Ethics
+
+## Analogy For Difference Between Society and Ethics
+
+## Why Study Ethics?
+
+## Scenario 1
+
+## Scenario 2
+
+## Scenario 3
+
+## Scenario 4
+
+## More on Ethics
+
+## A Good Ethical Theory Supports Persuasive, Logical Arguments
+
+## 2.2 Subjective Relativism
+
+## What is Relativism?
+
+## Case for Subjective Relativism
+
+## Case Against Subjective Relativism
+
+## 2.3 Cultural Relativism
+
+## Cultural Relativism in a Nutshell
+
+## Case for Cultural Relativism
+
+## Case 
+
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Code and Output
+
+```{r}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
